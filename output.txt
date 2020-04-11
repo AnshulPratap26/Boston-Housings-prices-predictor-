@@ -1,0 +1,5 @@
+data tried on models :
+
+Linear Regression:
+Rmse: 4
+_________________________________
